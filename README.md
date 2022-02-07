@@ -1,5 +1,6 @@
 # GABB-Source
-Edited Gabb Source Made by SrMotion#1337 credits to reiko
+Edited by Kupa#0001.
+Credits to SrMotion. <3
 
 # Don't Connecting GABB Server
 ![Alt Text](GABB.png)
